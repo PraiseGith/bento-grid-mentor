@@ -122,4 +122,54 @@ section {
     width: 15rem;
 }
 
+/* start styling from section 6 */
 
+section.s6{
+    background-color: hsl(0, 0%, 100%);
+}
+
+.s6 h3{
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.s6 small{
+    font-weight: 500;
+    margin-top: .7rem;
+}
+
+.s6 img{
+    width: 9.5rem;
+    margin-top: .8rem;
+}
+
+/* section 7 styling */
+section.s7{
+    background-color: hsl(31, 66%, 93%);
+    padding: 2rem;
+}
+
+.s7 i{
+    color:hsl(256, 67%, 59%);
+}
+
+.s7 img{
+    width: 190px;
+    margin-top: 1rem;
+}
+
+/* section 8 styling */
+
+section.s8{
+    background-color: hsl(39, 100%, 71%);
+}
+
+.s8 h3{
+    font-size: 1.7rem;
+    font-weight: 600;
+}
+
+.s8 img{
+    width: 230px;
+    margin-top: 1.3rem;
+}
