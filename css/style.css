@@ -125,7 +125,7 @@ section {
 /* start styling from section 6 */
 
 section.s6{
-    background-color: hsl(0, 0%, 100%);
+    background-color: var(--white);
 }
 
 .s6 h3{
@@ -145,12 +145,12 @@ section.s6{
 
 /* section 7 styling */
 section.s7{
-    background-color: hsl(31, 66%, 93%);
+    background-color: var(--yellow-100);
     padding: 2rem;
 }
 
 .s7 i{
-    color:hsl(256, 67%, 59%);
+    color: var(--purple-500);
 }
 
 .s7 img{
@@ -161,7 +161,7 @@ section.s7{
 /* section 8 styling */
 
 section.s8{
-    background-color: hsl(39, 100%, 71%);
+    background-color: var(--yellow-500)
 }
 
 .s8 h3{
